@@ -13,8 +13,18 @@ Nirmata-Hidden (Done)
 DonkyKong (Done)
 ![DK](./DK.png)
 
-NewYork (Incomplete)
-![NY](./NY.png)
+## Other Maps Created
+
+NewYork (Done)
+![NY](./NewYork.png)
+
+Earth (Done)
+![Earth](./Earth.png)
+
+Gold (Done)
+![Gold](./Gold.png)
+
+
 
 
 [Maps Demo Video](https://youtu.be/7xE7kr6U5ns)
